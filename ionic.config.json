@@ -1,0 +1,7 @@
+{
+  "name": "go-charge-map-modal-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
