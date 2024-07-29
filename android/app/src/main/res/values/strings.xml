@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">go-charge-map-modal-test</string>
+    <string name="title_activity_main">go-charge-map-modal-test</string>
+    <string name="package_name">nl.jador.modaltest</string>
+    <string name="custom_url_scheme">nl.jador.modaltest</string>
+</resources>

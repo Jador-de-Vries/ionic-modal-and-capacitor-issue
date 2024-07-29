@@ -10,4 +10,8 @@ export const routes: Routes = [
     redirectTo: 'home',
     pathMatch: 'full',
   },
+  {
+    path: 'scroll-page',
+    loadComponent: () => import('./scroll-page/scroll-page.page').then( m => m.ScrollPagePage)
+  },
 ];

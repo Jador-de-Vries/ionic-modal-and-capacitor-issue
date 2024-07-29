@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'nl.jador.modaltest',
   appName: 'go-charge-map-modal-test',
   webDir: 'www'
 };
